@@ -55,3 +55,74 @@ body {
 }
 /* END HEADER */
 
+#main-content h1{
+  text-align: center;
+  font-family: 'Lora', serif;
+  color: #1a1a1a;
+  font-size: 1.8em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 10;
+  margin-bottom: 10;
+  line-height: .5;
+}
+
+
+.item{
+  position: relative;
+  top: 0;
+  background-color:#a9a3a3;
+  margin: 15px;
+  padding: 25px;
+  border: 2px solid #000;
+}
+
+.item-title{
+  position: relative;
+  top:0px;
+  right: 0px;
+  padding: 6px 50px;
+  margin-top: 0px;
+  text-align: center;
+
+}
+
+.item p{
+  margin-top: 10px;
+  text-align: justify;
+  font-size: 100%;
+  color: #1a1a1a;
+}
+
+#chicken {
+  text-align: center;
+  font-family: 'Lora', serif;
+  background-color:#a9a3a3;
+  color: #1a1a1a;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  font-size: 1.2em;
+
+} 
+
+#beef{
+  text-align: center;
+  font-family: 'Lora', serif;
+  background-color:#a9a3a3;
+  color: #1a1a1a;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  font-size: 1.2em;
+
+}
+
+#sushi{
+  text-align: center;
+  font-family: 'Lora', serif;
+  background-color:#a9a3a3;
+  color: #1a1a1a;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  font-size: 1.2em;
+}
